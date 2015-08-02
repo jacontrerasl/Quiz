@@ -17,9 +17,16 @@ exports.load = function(req, res, next, quizId){
 };
 
 exports.index = function(req, res){
-	models.Quiz.findAll().then(function(quizes){
-		res.render('quizes/index.ejs',{quizes: quizes});
+	var search='%' + req.query.search + '%';
+
+	if(search != undefined)
+	{
+		search= search.replace(' ','%');
 	}
+
+	models.Quiz.findAll({where: ["pregunta like ?", search]}).then(function(quizes){
+		res.render('quizes/index.ejs',{quizes: quizes});
+		}
 	).catch(function(error){next(error);});	
 };
 
@@ -32,7 +39,7 @@ exports.answer = function(req, res){
 
 	if(req.query.respuesta === req.quiz.respuesta)
 	{
-		resultado='Corrrecto';
+		resultado='Correcto';
 	}
 	res.render('quizes/answer', {quiz: req.quiz, respuesta: resultado});
 
