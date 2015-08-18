@@ -1,2 +1,0 @@
-# Quiz
-Sistema de Preguntas
