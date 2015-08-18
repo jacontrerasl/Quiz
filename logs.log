@@ -1,0 +1,101 @@
+2015-08-11T05:53:12.052148+00:00 app[web.1]: bash: nodejs: command not found
+2015-08-11T05:53:12.960514+00:00 heroku[web.1]: Process exited with status 127
+2015-08-11T05:53:12.972591+00:00 heroku[web.1]: State changed from starting to crashed
+2015-08-11T11:37:16.580381+00:00 heroku[web.1]: State changed from crashed to starting
+2015-08-11T11:37:19.907742+00:00 heroku[web.1]: Starting process with command `nodejs ./bin/www`
+2015-08-11T11:37:22.046127+00:00 app[web.1]: bash: nodejs: command not found
+2015-08-11T11:37:22.991852+00:00 heroku[web.1]: Process exited with status 127
+2015-08-11T11:37:23.009221+00:00 heroku[web.1]: State changed from starting to crashed
+2015-08-11T17:29:24.388510+00:00 heroku[web.1]: State changed from crashed to starting
+2015-08-11T17:29:26.616640+00:00 heroku[web.1]: Starting process with command `nodejs ./bin/www`
+2015-08-11T17:29:28.537529+00:00 app[web.1]: bash: nodejs: command not found
+2015-08-11T17:29:29.429587+00:00 heroku[web.1]: Process exited with status 127
+2015-08-11T17:29:29.443839+00:00 heroku[web.1]: State changed from starting to crashed
+2015-08-11T23:13:31.191032+00:00 heroku[web.1]: State changed from crashed to starting
+2015-08-11T23:13:33.651723+00:00 heroku[web.1]: Starting process with command `nodejs ./bin/www`
+2015-08-11T23:13:35.393442+00:00 app[web.1]: bash: nodejs: command not found
+2015-08-11T23:13:36.274109+00:00 heroku[web.1]: State changed from starting to crashed
+2015-08-11T23:13:36.262293+00:00 heroku[web.1]: Process exited with status 127
+2015-08-12T04:57:39.496730+00:00 heroku[web.1]: State changed from crashed to starting
+2015-08-12T04:57:41.705194+00:00 heroku[web.1]: Starting process with command `nodejs ./bin/www`
+2015-08-12T04:57:42.970375+00:00 app[web.1]: bash: nodejs: command not found
+2015-08-12T04:57:43.649429+00:00 heroku[web.1]: State changed from starting to crashed
+2015-08-12T04:57:43.640556+00:00 heroku[web.1]: Process exited with status 127
+2015-08-12T10:25:53.020718+00:00 heroku[web.1]: State changed from crashed to starting
+2015-08-12T10:25:55.092623+00:00 heroku[web.1]: Starting process with command `nodejs ./bin/www`
+2015-08-12T10:25:56.446554+00:00 app[web.1]: bash: nodejs: command not found
+2015-08-12T10:25:57.337058+00:00 heroku[web.1]: Process exited with status 127
+2015-08-12T10:25:57.367861+00:00 heroku[web.1]: State changed from starting to crashed
+2015-08-12T16:01:59.249849+00:00 heroku[web.1]: State changed from crashed to starting
+2015-08-12T16:02:01.665816+00:00 heroku[web.1]: Starting process with command `nodejs ./bin/www`
+2015-08-12T16:02:03.235174+00:00 app[web.1]: bash: nodejs: command not found
+2015-08-12T16:02:04.026056+00:00 heroku[web.1]: Process exited with status 127
+2015-08-12T16:02:04.039082+00:00 heroku[web.1]: State changed from starting to crashed
+2015-08-12T23:23:16.042452+00:00 heroku[web.1]: State changed from crashed to starting
+2015-08-12T23:23:17.661961+00:00 heroku[web.1]: Starting process with command `nodejs ./bin/www`
+2015-08-12T23:23:18.864072+00:00 app[web.1]: bash: nodejs: command not found
+2015-08-12T23:23:19.527588+00:00 heroku[web.1]: Process exited with status 127
+2015-08-12T23:23:19.545173+00:00 heroku[web.1]: State changed from starting to crashed
+2015-08-13T04:58:36.463796+00:00 heroku[web.1]: State changed from crashed to starting
+2015-08-13T04:58:38.458334+00:00 heroku[web.1]: Starting process with command `nodejs ./bin/www`
+2015-08-13T04:58:40.019282+00:00 app[web.1]: bash: nodejs: command not found
+2015-08-13T04:58:40.759294+00:00 heroku[web.1]: Process exited with status 127
+2015-08-13T04:58:40.764058+00:00 heroku[web.1]: State changed from starting to crashed
+2015-08-13T10:42:52.815417+00:00 heroku[web.1]: State changed from crashed to starting
+2015-08-13T10:42:55.386547+00:00 heroku[web.1]: Starting process with command `nodejs ./bin/www`
+2015-08-13T10:42:57.170173+00:00 app[web.1]: bash: nodejs: command not found
+2015-08-13T10:42:57.973886+00:00 heroku[web.1]: Process exited with status 127
+2015-08-13T10:42:57.992014+00:00 heroku[web.1]: State changed from starting to crashed
+2015-08-13T16:11:11.378728+00:00 heroku[web.1]: State changed from crashed to starting
+2015-08-13T16:11:14.088324+00:00 heroku[web.1]: Starting process with command `nodejs ./bin/www`
+2015-08-13T16:11:16.212955+00:00 app[web.1]: bash: nodejs: command not found
+2015-08-13T16:11:17.184708+00:00 heroku[web.1]: State changed from starting to crashed
+2015-08-13T16:11:17.167547+00:00 heroku[web.1]: Process exited with status 127
+2015-08-13T22:04:28.390505+00:00 heroku[web.1]: State changed from crashed to starting
+2015-08-13T22:04:30.471888+00:00 heroku[web.1]: Starting process with command `nodejs ./bin/www`
+2015-08-13T22:04:32.157699+00:00 app[web.1]: bash: nodejs: command not found
+2015-08-13T22:04:32.944707+00:00 heroku[web.1]: Process exited with status 127
+2015-08-13T22:04:32.957272+00:00 heroku[web.1]: State changed from starting to crashed
+2015-08-14T03:56:42.309022+00:00 heroku[web.1]: Starting process with command `nodejs ./bin/www`
+2015-08-14T03:56:43.798829+00:00 app[web.1]: bash: nodejs: command not found
+2015-08-14T03:56:44.468647+00:00 heroku[web.1]: State changed from starting to crashed
+2015-08-14T03:56:44.452459+00:00 heroku[web.1]: Process exited with status 127
+2015-08-14T03:56:40.680212+00:00 heroku[web.1]: State changed from crashed to starting
+2015-08-14T09:56:56.064405+00:00 heroku[web.1]: State changed from crashed to starting
+2015-08-14T09:56:58.791712+00:00 heroku[web.1]: Starting process with command `nodejs ./bin/www`
+2015-08-14T09:57:00.794665+00:00 app[web.1]: bash: nodejs: command not found
+2015-08-14T09:57:01.781126+00:00 heroku[web.1]: State changed from starting to crashed
+2015-08-14T09:57:01.758820+00:00 heroku[web.1]: Process exited with status 127
+2015-08-14T15:49:15.030187+00:00 heroku[web.1]: State changed from crashed to starting
+2015-08-14T15:49:17.345964+00:00 heroku[web.1]: Starting process with command `nodejs ./bin/www`
+2015-08-14T15:49:19.004978+00:00 app[web.1]: bash: nodejs: command not found
+2015-08-14T15:49:19.817232+00:00 heroku[web.1]: Process exited with status 127
+2015-08-14T15:49:19.832471+00:00 heroku[web.1]: State changed from starting to crashed
+2015-08-14T21:41:33.830641+00:00 heroku[web.1]: State changed from crashed to starting
+2015-08-14T21:41:36.971115+00:00 heroku[web.1]: Starting process with command `nodejs ./bin/www`
+2015-08-14T21:41:38.993434+00:00 app[web.1]: bash: nodejs: command not found
+2015-08-14T21:41:39.864101+00:00 heroku[web.1]: State changed from starting to crashed
+2015-08-14T21:41:39.854088+00:00 heroku[web.1]: Process exited with status 127
+2015-08-15T03:34:00.246841+00:00 heroku[web.1]: State changed from crashed to starting
+2015-08-15T03:34:02.165347+00:00 heroku[web.1]: Starting process with command `nodejs ./bin/www`
+2015-08-15T03:34:03.714640+00:00 app[web.1]: bash: nodejs: command not found
+2015-08-15T03:34:04.511421+00:00 heroku[web.1]: Process exited with status 127
+2015-08-15T03:34:04.535721+00:00 heroku[web.1]: State changed from starting to crashed
+2015-08-15T09:17:49.140724+00:00 heroku[web.1]: State changed from crashed to starting
+2015-08-15T09:17:51.293921+00:00 heroku[web.1]: Starting process with command `nodejs ./bin/www`
+2015-08-15T09:17:52.916570+00:00 app[web.1]: bash: nodejs: command not found
+2015-08-15T09:17:53.905883+00:00 heroku[web.1]: Process exited with status 127
+2015-08-15T09:17:53.921410+00:00 heroku[web.1]: State changed from starting to crashed
+2015-08-15T14:54:06.766370+00:00 heroku[web.1]: State changed from crashed to starting
+2015-08-15T14:54:08.637864+00:00 heroku[web.1]: Starting process with command `nodejs ./bin/www`
+2015-08-15T14:54:11.353931+00:00 app[web.1]: bash: nodejs: command not found
+2015-08-15T14:54:12.405710+00:00 heroku[web.1]: Process exited with status 127
+2015-08-15T14:54:12.426945+00:00 heroku[web.1]: State changed from starting to crashed
+2015-08-15T20:22:24.713966+00:00 heroku[web.1]: State changed from crashed to starting
+2015-08-15T20:22:26.998985+00:00 heroku[web.1]: Starting process with command `nodejs ./bin/www`
+2015-08-15T20:22:29.262718+00:00 app[web.1]: bash: nodejs: command not found
+2015-08-15T20:22:30.158200+00:00 heroku[web.1]: State changed from starting to crashed
+2015-08-15T20:22:30.140616+00:00 heroku[web.1]: Process exited with status 127
+2015-08-17T22:31:44.919442+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/quiz-ve-2015" host=quiz-ve-2015.herokuapp.com request_id=afc85241-618e-48e2-b6e3-c7f5917be575 fwd="200.8.177.129" dyno= connect= service= status=503 bytes=
+2015-08-17T22:31:45.588285+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/favicon.ico" host=quiz-ve-2015.herokuapp.com request_id=a9082d54-89f6-4b47-afb5-7348fc96906a fwd="200.8.177.129" dyno= connect= service= status=503 bytes=
+2015-08-17T22:32:16.178700+00:00 heroku[router]: at=error code=H10 desc="App crashed" method=GET path="/browserconfig.xml" host=quiz-ve-2015.herokuapp.com request_id=b18d2b55-4251-4bfa-9a1f-8b1bc3654af2 fwd="200.8.177.129" dyno= connect= service= status=503 bytes=
